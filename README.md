@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF7CD&width=435&lines=Heyy%2C+my+name+is+paras!;Nice+to+meet+you+%3Ag)](https://git.io/typing-svg)
-
 I'm an informatics student who's still learning and surviving this major
 I currently live in Samarinda, Indonesia.
 
