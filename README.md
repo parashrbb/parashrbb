@@ -1,3 +1,3 @@
-[![ASCII IF Lab](https://ascii.web.id/api/badge/2409106092.svg)](https://ascii.web.id)
+Heyy, I'm starting to learn how to use this website (finally) (●'◡'●)
 
-![Python](https://shields.io)
+[![ASCII IF Lab](https://ascii.web.id/api/badge/2409106092.svg)](https://ascii.web.id)
