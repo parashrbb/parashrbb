@@ -3,7 +3,8 @@
 I'm an informatics student who's still learning and surviving this major
 I currently live in Samarinda, Indonesia.
 
-I like to turn problems into practical solutions. I'm currently exploring data analysis, databases, programming, and Blender for 3D animation and modelling while building projects to improve my technical skills.
+I like to turn problems into practical solutions. 
+I'm currently exploring data analysis, databases, programming, and Blender for 3D animation and modelling while building projects to improve my technical skills.
 
 I also love making websites (well... more like designing websites)
 but still! I'm working on my portfolio website now, so please stay tuned!
